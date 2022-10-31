@@ -10,7 +10,8 @@
 
 # production
 /build
-
+#testFile
+/Introduction.txt
 # misc
 .DS_Store
 .env.local
